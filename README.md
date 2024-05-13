@@ -1,10 +1,12 @@
 *Project Scope: Blood Bank Today Demo Application*
 
 *Introduction:*
+
 Brief overview of the application purpose and functionality.
 Introduction to key features and target audience.
 
 *Features:*
+
 *I)User Registration and Authentication:*
 Allow users to register and log in securely.
 Implement password hashing and salting for security.
@@ -33,10 +35,13 @@ Provide administrators with a dashboard to manage users, donations, and requests
 Allow admins to view reports on blood inventory and donation activities.
 
 *Technology Stack:*
+
 *I)Frontend:*
 HTML, CSS, JavaScript (React/Angular/Vue.js)
+
 *II)Backend:*
 Server-side scripting language (Node.js/Python/PHP)
 Framework (Express.js/Django/Laravel)
+
 *III)Database:*
 Relational (MySQL/PostgreSQL) or NoSQL (MongoDB) based on requirements.
