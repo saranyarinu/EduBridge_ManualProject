@@ -1,6 +1,6 @@
-***Project Scope: Blood Bank Today Demo Application*
+*Project Scope: Blood Bank Today Demo Application*
 
-*Introduction:**
+*Introduction:*
 Brief overview of the application purpose and functionality.
 Introduction to key features and target audience.
 
